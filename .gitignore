@@ -1,0 +1,6 @@
+.env
+.idea/
+.vscode/
+*.log
+# Exámenes reales: nunca se suben al repositorio
+poc/datos/
