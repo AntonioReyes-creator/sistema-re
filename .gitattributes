@@ -1,0 +1,7 @@
+# Finales de línea LF en el repositorio (evita problemas entre Windows y los contenedores Linux)
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.png binary
+*.jpg binary
+*.pdf binary
